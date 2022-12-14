@@ -1,0 +1,19 @@
+.navbar{
+  /* overflow: hidden; */
+  background-color: #fd03e8;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  float: left;
+  display: block;
+    
+}
+
+  .button{
+    color: black;
+    width: 30px;
+    height: 30px;
+    margin-left: 28px;
+    margin-right: 50px;
+    cursor: pointer;
+  }
